@@ -99,7 +99,7 @@ Angular CLI is need. <br/>
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/dominik-stec/.NET_PJA.git
+   git clone https://github.com/dominik-stec/.NET.git
    ```
 2. Go to folder with actual version of project frontend
    ```sh
